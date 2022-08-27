@@ -1,6 +1,5 @@
 # E-commerce Back End
-Employee Tracker
-![Employee Tracker](./images/Screenshot%20Title.png) 
+![E-commerce Back End](./images/Screenshot%202022-08-27%20000442.png) 
 ## Table of Contents
 * [Project Title](#Project-Title)
 * [Description](#Description)
@@ -12,19 +11,18 @@ Employee Tracker
 * [Questions](#Questions)
 
 ## Description
-* This is a E-commerce Back End. You can create and an Employee. 
+* This is a E-commerce Back End. You can create, read, update and delete some categories, tags, products. 
 
 ## Installation instructions
-![NPM-Package](./images/Screenshot%202022-08-24%20032821.png) 
-![Schema-Design](./images/Screenshot%20Design-Schema.png) 
-![Schema-Final](./images/Screenshot%20Final%20Schema.png)
+![NPM-Package](./images/npm.png) 
+![Schema-Final](./images/Schema.png)
 
 ## Usage Information
 * This E-commerce Back End is for personal and professional use.
 
 ## Contribution Guidelines
 * This is a final product, that is ready to be use.
-* [E-commerce-Back-End-Page-Ressources](https://github.com/MiguelJerome/empolyee-tracker)
+* [E-commerce-Back-End-Page-Ressources](https://github.com/MiguelJerome/E-commerce-Back-End)
 * [Video-Usage-E-commerce-Back-End](https://livelacitecon-my.sharepoint.com/:v:/g/personal/2001326_collegelacite_ca/ET7tprgBXdZEp_w1iLBC5u4BqBNb_xXyZztkQklH5KcSmA)
 
 ## Test Instructions
